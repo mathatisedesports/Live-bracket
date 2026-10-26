@@ -1,0 +1,8 @@
+{
+  "name": "mathatised-live-bracket",
+  "private": true,
+  "description": "Public, read-only live bracket published by the Mathatised Tournament Platform.",
+  "engines": {
+    "node": ">=20"
+  }
+}
