@@ -3,7 +3,7 @@
 A public, read-only site for your tournaments, for sharing in Discord. It lists every
 event you switch on in the tool (live, upcoming and past), and for each event shows:
 
-* **Overview** — format, the path through the stages and who went through, live now, up next, latest results.
+* **Overview** —  format, the path through the stages and who went through, live now, up next, latest results.
 * **Matches** — every match, filterable by stage, team and live / upcoming / results; click one for the score of every game.
 * **Teams** — every team with its roster (players, substitutes, staff) and its matches and run through the tournament.
 * **Each stage** — group tables with qualification colours, two-legged ties with the aggregate, and the bracket.
