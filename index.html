@@ -6,6 +6,10 @@
     <meta name="theme-color" content="#0b1f3f" />
     <title>Live Bracket</title>
     <meta name="description" content="Live tournament bracket — updates automatically." />
+    <script>
+      // Apply the viewer's light/dark choice before the page draws (no dark flash).
+      try { if (localStorage.getItem('pb-theme') === 'light') document.documentElement.dataset.theme = 'light'; } catch (e) {}
+    </script>
     <link rel="stylesheet" href="/app.css" />
   </head>
   <body>
